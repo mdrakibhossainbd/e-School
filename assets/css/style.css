@@ -276,6 +276,14 @@ height: 120px;
 	font-size: 14px;
 
 }
+/* form  */
+.form-width{
+	width: 55%;
+	margin: 0px auto;
+	height: 300px;
+}
+
+/* form end  */
 
 /* footer end  */
 .footer-bottom p{
